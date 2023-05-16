@@ -1,0 +1,16 @@
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\bin\Debug\ipcimWPF.exe.config
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\bin\Debug\ipcimWPF.exe
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\bin\Debug\ipcimWPF.pdb
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\obj\Debug\ipcimWPF.csproj.AssemblyReference.cache
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\obj\Debug\ipcimWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\obj\Debug\App.g.cs
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\obj\Debug\ipcimWPF_MarkupCompile.cache
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\obj\Debug\ipcimWPF_MarkupCompile.lref
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\obj\Debug\MainWindow.baml
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\obj\Debug\ipcimWPF.g.resources
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\obj\Debug\ipcimWPF.Properties.Resources.resources
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\obj\Debug\ipcimWPF.csproj.GenerateResource.cache
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\obj\Debug\ipcimWPF.csproj.CoreCompileInputs.cache
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\obj\Debug\ipcimWPF.exe
+C:\Users\Ervin\Desktop\asztali\ipcimek\wpf-ipcimek\ipcimWPF\ipcimWPF\obj\Debug\ipcimWPF.pdb

@@ -1,0 +1,1 @@
+Class1.cs-ben { get; set; } minden prop
